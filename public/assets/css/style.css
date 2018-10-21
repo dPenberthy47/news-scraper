@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(to right, #93cede 0%, #75bdd1 41%, #49a5bf 100%);
+}
+
+nav {
+    background: black;
+    color: white;
+    height: 60px;
+    margin-bottom: 30px;
+}
+
+.card-title {
+    margin-bottom: 0;
+    text-transform: capitalize;    
+}
+
+.card {
+    border-radius: 2px 2px 50px 2px;
+    border: 1px solid black;
+    box-shadow: 9px 9px 0px -3px black;
+    padding: 5px;
+}
+
+button {
+    background: rgb(38, 158, 190);
+    color:white;
+    margin-right: 25px;
+}
+
+button:hover {
+    background: rgb(2, 123, 156);
+}
+
+a {
+    color:rgb(2, 123, 156);
+}
+
+a:hover {
+    color: rgb(2, 95, 121);
+}
+
+.logo {
+    color:white;
+    margin-right: 30px;
+}
+
+.logo:hover {
+    color: rgb(2, 123, 156);
+}
+/* .navbar-brand {
+    color: white;
+}
+.navbar-brand:hover {
+    color: rgb(2, 123, 156);
+}
+} */
+
+.nav-link {
+    width: 200px;
+}
